@@ -18,8 +18,11 @@ docker-compose up -d
 ## Information
 
 **Default Virtual Host URL:** http://localhost
+
 **PhpMyAdmin URL:** http://localhost:8080
+
 **MySQL Server Hostname:** mysql
+
 **Redis Server Hostname:** redis
 
 All ports are default. You can change it on .env file before built Docker project.
