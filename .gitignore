@@ -1,1 +1,4 @@
 .env
+data/mysql/*
+logs/apache/*
+logs/mysql/*
